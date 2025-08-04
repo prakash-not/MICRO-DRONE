@@ -8,7 +8,7 @@ The hardware was designed from the ground up in EasyEDA, focusing on high perfor
 ![PCB Layout](https://github.com/prakash-not/MICRO-DRONE/blob/main/layout.png?raw=true)
 
 (Insert a screenshot of your schematic here)
-![Schematic](path/to/your/schematic_screenshot.png)
+![Schematic](https://github.com/prakash-not/MICRO-DRONE/blob/main/schematic.png?raw=true)
 
 Key Features & Components
 This flight controller is packed with a suite of high-performance sensors and a powerful MCU to enable advanced features far beyond a typical micro drone.
