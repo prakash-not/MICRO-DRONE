@@ -5,7 +5,7 @@ Hardware Design
 The hardware was designed from the ground up in EasyEDA, focusing on high performance, signal integrity, and a compact form factor. The 4-layer design incorporates dedicated inner planes for power and ground, ensuring a low-noise environment for the sensitive onboard sensors.
 
 (Insert a screenshot of your final PCB Layout here)
-![PCB Layout](path/to/your/pcb_layout_screenshot.png)
+![PCB Layout](https://github.com/prakash-not/MICRO-DRONE/blob/main/layout.png?raw=true)
 
 (Insert a screenshot of your schematic here)
 ![Schematic](path/to/your/schematic_screenshot.png)
